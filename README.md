@@ -1,24 +1,16 @@
+# Je-me-présente
+# https://test2appigwen.herokuapp.com/
+
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Version ruby
 
-Things you may want to cover:
 
-* Ruby version
+ruby '2.5.1'
 
-* System dependencies
 
-* Configuration
+```
+$ heroku open
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Fait par CASSAND Gwendoline
